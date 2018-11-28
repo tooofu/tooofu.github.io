@@ -1,0 +1,21 @@
+markdown: kramdown
+highlighter: pygments
+permalink: /:year/:month/:day/:title.html
+name: "tooofu"
+
+author: "1024.ding@gmail.com"
+atom-baseurl: ""
+
+navigations:
+  - title: Archive
+    class: fa fa-list-ul
+    href: /archive.html
+  - title: Slides
+    class: fa fa-file-powerpoint-o
+    href: /slides.html
+  - title: Tags
+    class: fa fa-tags
+    href: /tags.html
+  - title: About
+    class: fa fa-user
+    href: /about.html
